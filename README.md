@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**franalonso05/franalonso05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Francisco's github stats](https://github-readme-stats.vercel.app/api?username=franalonso05&count_private=true&show_icons=true&theme=vue)
 
-Here are some ideas to get you started:
+My name is Francisco Alonso, but you can call me Fran or Franchu.
+Im an student doing my first steps in the software industry.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**:gem: Job:** Internship at Folder IT (software develop)
+
+**:school_satchel: Learning:** HTML, JavaScript, CSS, Git, Scrum.
+
+**:heart: Hobbies:** Playing basketball and hanging out with friends.
+
+**:mailbox_with_mail: Get in touch :** <a href="https://www.linkedin.com/in/francisco-bartolome-alonso/">Linkedin</a> 
